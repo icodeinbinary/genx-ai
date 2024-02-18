@@ -21,9 +21,6 @@ Modules used:
 6. SpeechRecognition - It is used to convert the speech to text
 7. google.cloud.speech - It is used to convert the speech to text
 
-Author: HeavenHM
-Date: 17-12-2023
-Version: 1.0
 """
 
 import streamlit as st
